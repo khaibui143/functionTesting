@@ -5,6 +5,7 @@ import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
 
+//Các ca kiểm thử được tạo ra sau khi sử dụng phương pháp phân hoạch tương đương
 public class discountCalculatorPartitionTest {
     @Test
     public void calculatorNormalCustomerTest1() {

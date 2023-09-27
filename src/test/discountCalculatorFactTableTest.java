@@ -5,6 +5,7 @@ import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
 
+//Các ca kiểm thử được tạo ra sau khi sử dụng phương pháp Xây dựng bảng quyết định
 public class discountCalculatorFactTableTest {
     @Test
     public void calculatorNormalCustomerTest1() {
