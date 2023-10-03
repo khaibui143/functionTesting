@@ -1,4 +1,4 @@
-package test;
+package test.BlackBoxTesting;
 
 import main.discountCalculator;
 import static org.junit.Assert.assertEquals;
